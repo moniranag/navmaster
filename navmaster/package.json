@@ -10,11 +10,8 @@
     "node-polyfill-webpack-plugin": "^4.0.0",
     "nspell": "^2.1.5",
     "react": "^18.3.1",
-    "react-color": "^2.19.3",
-    "react-color-palette": "^7.3.0",
     "react-dom": "^18.3.1",
     "react-quill-spell-checker": "^1.9.4",
-    "react-router-dom": "^6.27.0",
     "react-scripts": "5.0.1",
     "typo-js": "^1.2.4",
     "web-vitals": "^2.1.4"
